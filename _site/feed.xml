@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://0.0.0.0:4000/</id>
+  <id>https://emr03.github.io/</id>
   <title>Elsa Riachi</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2021-02-22T21:59:25-05:00</updated>
+  <updated>2021-08-21T15:55:10-04:00</updated>
   <author>
     <name>Elsa Riachi</name>
-    <uri>http://0.0.0.0:4000/</uri>
+    <uri>https://emr03.github.io/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://0.0.0.0:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://emr03.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://0.0.0.0:4000/"/>
+    href="https://emr03.github.io/"/>
   <generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
   <rights> © 2021 Elsa Riachi </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,14 +20,136 @@
 
   
   <entry>
+    <title>How Adversarial Attacks Exploit Shortcut Learning</title>
+    <link href="https://emr03.github.io/posts/how-adversarial-attacks-exploit-shortcut-learning/" rel="alternate" type="text/html" title="How Adversarial Attacks Exploit Shortcut Learning" />
+    <published>2021-08-16T00:00:00-04:00</published>
+  
+    <updated>2021-08-16T00:00:00-04:00</updated>
+  
+    <id>https://emr03.github.io/posts/how-adversarial-attacks-exploit-shortcut-learning/</id>
+    <content src="https://emr03.github.io/posts/how-adversarial-attacks-exploit-shortcut-learning/" />
+    <author>
+      <name>Elsa Riachi</name>
+    </author>
+
+  
+    
+    <category term="Notes" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Current notions of non-robust features emphasize their presence in the data in some form. For instance … considers the reliance of neural networks on texture at the expense of shape, and … considers the entanglement of non-robust features with robust features. Other work conjectures that high frequency content in images is to blame for adversarial vulnerability. While these findings reveal impo...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Constrained Optimization, The KKT conditions</title>
+    <link href="https://emr03.github.io/posts/Constrained-Optimization-the-KKT-conditions/" rel="alternate" type="text/html" title="Constrained Optimization, The KKT conditions" />
+    <published>2021-07-24T00:00:00-04:00</published>
+  
+    <updated>2021-07-24T00:00:00-04:00</updated>
+  
+    <id>https://emr03.github.io/posts/Constrained-Optimization-the-KKT-conditions/</id>
+    <content src="https://emr03.github.io/posts/Constrained-Optimization-the-KKT-conditions/" />
+    <author>
+      <name>Elsa Riachi</name>
+    </author>
+
+  
+    
+    <category term="Notes" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+We examine how training a multi-class perceptron on adversarial attacks can lead to generalization.
+This exercise illustrates how adversarial attacks are well-generalizing without
+requiring the presence of non-robust features *in the dataset*.
+
+
+
+$$
+\newcommand\testmacro[2]{\mathbf{F\alpha}(#1)^{#2}}
+\def\norm#1{\left\|{#1}\right\|} % A norm with 1 argument
+\newcommand\zeronorm[1]{\norm{#1}_0}...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Learning From Adversarial Examples (Part I)</title>
+    <link href="https://emr03.github.io/posts/learning-from-adversarial-examples/" rel="alternate" type="text/html" title="Learning From Adversarial Examples (Part I)" />
+    <published>2021-07-24T00:00:00-04:00</published>
+  
+    <updated>2021-07-24T00:00:00-04:00</updated>
+  
+    <id>https://emr03.github.io/posts/learning-from-adversarial-examples/</id>
+    <content src="https://emr03.github.io/posts/learning-from-adversarial-examples/" />
+    <author>
+      <name>Elsa Riachi</name>
+    </author>
+
+  
+    
+    <category term="Research" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+We examine how training a multi-class perceptron on adversarial attacks can lead to generalization.
+This exercise illustrates how adversarial attacks are well-generalizing without
+requiring the presence of non-robust features *in the dataset*.
+
+
+
+$$
+\newcommand\testmacro[2]{\mathbf{F\alpha}(#1)^{#2}}
+\def\norm#1{\left\|{#1}\right\|} % A norm with 1 argument
+\newcommand\zeronorm[1]{\norm{#1}_0}...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>The Structure of Adversarial Perturbations (Part I)</title>
-    <link href="http://0.0.0.0:4000/posts/the-structure-of-adversarial-perturbations-part1/" rel="alternate" type="text/html" title="The Structure of Adversarial Perturbations (Part I)" />
+    <link href="https://emr03.github.io/posts/the-structure-of-adversarial-perturbations-part1/" rel="alternate" type="text/html" title="The Structure of Adversarial Perturbations (Part I)" />
     <published>2021-02-13T00:00:00-05:00</published>
   
     <updated>2021-02-19T01:14:44-05:00</updated>
   
-    <id>http://0.0.0.0:4000/posts/the-structure-of-adversarial-perturbations-part1/</id>
-    <content src="http://0.0.0.0:4000/posts/the-structure-of-adversarial-perturbations-part1/" />
+    <id>https://emr03.github.io/posts/the-structure-of-adversarial-perturbations-part1/</id>
+    <content src="https://emr03.github.io/posts/the-structure-of-adversarial-perturbations-part1/" />
     <author>
       <name>Elsa Riachi</name>
     </author>

@@ -1,6 +1,51 @@
 [
   
   {
+    "title": "How Adversarial Attacks Exploit Shortcut Learning",
+    "url": "/posts/how-adversarial-attacks-exploit-shortcut-learning/",
+    "categories": "Notes",
+    "tags": "adversarial robustness",
+    "date": "2021-08-16 00:00:00 -0400",
+    
+
+
+
+
+
+    "snippet": "Current notions of non-robust features emphasize their presence in the data in some form. For instance … considers the reliance of neural networks on texture at the expense of shape, and … considers the entanglement of non-robust features with robust features. Other work conjectures that high fre..."
+  },
+  
+  {
+    "title": "Constrained Optimization, The KKT conditions",
+    "url": "/posts/Constrained-Optimization-the-KKT-conditions/",
+    "categories": "Notes",
+    "tags": "optimization",
+    "date": "2021-07-24 00:00:00 -0400",
+    
+
+
+
+
+
+    "snippet": "We examine how training a multi-class perceptron on adversarial attacks can lead to generalization.This exercise illustrates how adversarial attacks are well-generalizing withoutrequiring the presence of non-robust features *in the dataset*.$$\\newcommand\\testmacro[2]{\\mathbf{F\\alpha}(#1)^{#2}}\\de..."
+  },
+  
+  {
+    "title": "Learning From Adversarial Examples (Part I)",
+    "url": "/posts/learning-from-adversarial-examples/",
+    "categories": "Research",
+    "tags": "adversarial robustness",
+    "date": "2021-07-24 00:00:00 -0400",
+    
+
+
+
+
+
+    "snippet": "We examine how training a multi-class perceptron on adversarial attacks can lead to generalization.This exercise illustrates how adversarial attacks are well-generalizing withoutrequiring the presence of non-robust features *in the dataset*.$$\\newcommand\\testmacro[2]{\\mathbf{F\\alpha}(#1)^{#2}}\\de..."
+  },
+  
+  {
     "title": "The Structure of Adversarial Perturbations (Part I)",
     "url": "/posts/the-structure-of-adversarial-perturbations-part1/",
     "categories": "Research",
